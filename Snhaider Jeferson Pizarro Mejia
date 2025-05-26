@@ -1,3 +1,7 @@
 <html>
- <h1>"HOLA MUNDO"</h1>
+<body>
+
+<h1 style="color:green">"HOLA MUNDO"</h1>
+
+</body>
 </html>
